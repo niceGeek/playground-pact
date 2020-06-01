@@ -1,1 +1,1 @@
-# playground-pact
+pact-rest-tests
