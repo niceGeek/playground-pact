@@ -1,1 +1,1 @@
-pact-rest-tests
+rest-pact-tests
